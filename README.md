@@ -5,7 +5,7 @@ Beckyの新着通知にPopMessageを用いるスクリプト
 PopMessageの機能により、邪魔にならない新着通知が実現可能です。
 
 ## 使い方
-* v.vbsをダウンロード、任意の場所に配置
+* v.vbsを[ダウンロード](https://raw.githubusercontent.com/tatky/Becky_PopMessage/master/v.vbs)、任意の場所に配置
 * PopMessageをダウンロード・解凍し、v.vbsと同じ場所にPopMessage.exeを配置
 * Beckyの[プログラムを実行する機能](https://goo.gl/XE2Rse)を用いて、v.vbsを呼び出す
 
